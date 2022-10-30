@@ -5,7 +5,7 @@
 
     <fragment
         android:id="@+id/fragment_currency_selection"
-        android:name="com.nominalista.expenses.currencyselection.CurrencySelectionFragment"
+        android:name="eu.ways4.trackex.currencyselection.CurrencySelectionFragment"
         android:label="CurrencySelectionFragment" />
 
 </navigation>

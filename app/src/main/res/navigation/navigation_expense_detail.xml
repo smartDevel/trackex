@@ -6,12 +6,12 @@
 
     <fragment
         android:id="@+id/fragment_expense_detail"
-        android:name="com.nominalista.expenses.expensedetail.presentation.ExpenseDetailFragment"
+        android:name="eu.ways4.trackex.expensedetail.presentation.ExpenseDetailFragment"
         android:label="ExpenseDetailFragment">
 
         <argument
             android:name="expense"
-            app:argType="com.nominalista.expenses.data.model.Expense" />
+            app:argType="eu.ways4.trackex.data.model.Expense" />
 
     </fragment>
 

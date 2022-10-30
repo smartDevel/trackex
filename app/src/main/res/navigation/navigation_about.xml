@@ -5,7 +5,7 @@
 
     <fragment
         android:id="@+id/fragment_about"
-        android:name="com.nominalista.expenses.about.AboutFragment"
+        android:name="eu.ways4.trackex.about.AboutFragment"
         android:label="AboutFragment" />
 
 </navigation>
