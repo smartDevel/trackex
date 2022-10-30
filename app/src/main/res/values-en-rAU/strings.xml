@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Expenses</string>
+    <string name="app_name">Track Expenses</string>
     <string name="app_description">It is a free and open-source app, that I made so you could track expenses in a beautifully simple way.</string>
     <string name="about">About</string>
     <string name="account">Account</string>

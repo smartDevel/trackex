@@ -10,8 +10,8 @@ android {
 
     defaultConfig {
         applicationId "eu.ways4.trackex"
-        versionCode 20
-        versionName "0.4.5"
+        versionCode 20221030
+        versionName "1.0.0"
         minSdkVersion 21
         targetSdkVersion 29
 
