@@ -1,6 +1,6 @@
 # Expenses
 
-<a href="https://play.google.com/store/apps/details?id=com.nominalista.expenses">
+<a href="https://play.google.com/store/apps/details?id=eu.ways4.trackex">
 <img src="https://cdn.jsdelivr.net/gh/steverichey/google-play-badge-svg/img/en_get.svg" width="30%">
 </a>
 
