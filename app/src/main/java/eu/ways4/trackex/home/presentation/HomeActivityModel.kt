@@ -150,6 +150,6 @@ class HomeActivityModel(
 
     companion object {
         private val TEMPLATE_XLS_URI =
-            Uri.parse("https://raw.githubusercontent.com/nominalista/expenses/master/resources/template.xls")
+            Uri.parse("https://raw.githubusercontent.com/smartDevel/trackex/master/resources/template.xls")
     }
 }

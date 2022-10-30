@@ -195,6 +195,6 @@ class SettingsFragmentModel(
 
     companion object {
         private val PRIVACY_POLICY_URI =
-            Uri.parse("https://raw.githubusercontent.com/nominalista/expenses/master/resources/privacy_policy.md")
+            Uri.parse("https://raw.githubusercontent.com/smartDevel/trackex/master/resources/privacy_policy.md")
     }
 }
