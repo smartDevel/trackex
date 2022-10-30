@@ -12,7 +12,7 @@ class PreferenceDataSource {
     fun getDefaultCurrency(context: Context): Currency {
         val preferences = PreferenceManager.getDefaultSharedPreferences(context)
         val key = getDefaultCurrencyKey(context)
-        return preferences.getString(key, null)?.let { Currency.valueOf(it) } ?: Currency.USD
+        return preferences.getString(key, null)?.let { Currency.valueOf(it) } ?: Currency.EUR
     }
 
     fun setDefaultCurrency(context: Context, defaultCurrency: Currency) {

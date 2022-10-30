@@ -1,4 +1,4 @@
-# Expenses
+# Trackex
 
 <a href="https://play.google.com/store/apps/details?id=eu.ways4.trackex">
 <img src="https://cdn.jsdelivr.net/gh/steverichey/google-play-badge-svg/img/en_get.svg" width="30%">
@@ -8,15 +8,15 @@
 
 # Download
 
-App is currently available on the [Google Play](https://play.google.com/store/apps/details?id=com.nominalista.expenses), but you can also download newest APK from [releases page](https://github.com/nominalista/expenses/releases).
+App is currently available on the [Google Play](https://play.google.com/store/apps/details?id=eu.ways4.trackex), but you can also download newest APK from [releases page](https://github.com/smartDevel/trackex/releases).
 
 # Contact
 
-Expenses is developed and maintained by [nominalista](https://github.com/nominalista). Feel free to reach out to [the.nominalista@gmail.com](mailto://the.nominalista@gmail.com).
+Trackex is developed and maintained by [smartDevel](https://github.com/smartDevel). Feel free to reach out to [development4android@ways4.me](mailto://development4android@ways4.me).
 
 # Copyright
 
-    Copyright 2019 Nominalista. All rights reserved.
+    Copyright 2022 smartDevel. All rights reserved.
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.

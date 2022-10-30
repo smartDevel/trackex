@@ -143,8 +143,8 @@ class AboutFragmentModel(application: eu.ways4.trackex.Application) : AndroidVie
     companion object {
         private const val TAG = "AboutFragmentModel"
         private const val PRODUCT_ID_TIP = "tip"
-        private val EMAIL_URI = Uri.parse("mailto:the.nominalista@gmail.com")
+        private val EMAIL_URI = Uri.parse("mailto:development4android@ways4.me")
         private val GOOGLE_PLAY_URI =
-            Uri.parse("https://play.google.com/store/apps/details?id=com.nominalista.expenses")
+            Uri.parse("https://play.google.com/store/apps/details?id=me.ways4.simplezeichnenapp")
     }
 }
