@@ -81,4 +81,8 @@
     <string name="translation_description">Jeśli jesteś zainteresowany pomocą w przetłumaczeniu aplikacji na twój język, proszę skontaktuj się ze mną. Chciałbym wspierać tyle języków ile to możliwe!\n\nObecnie wspierane: 🇺🇸 🇦🇺 🇪🇸 🇵🇱</string>
     <string name="welcome_to_expenses">Witaj w aplikacji Wydatki</string>
     <string name="yes">Tak</string>
+    <string name="last_month">W zeszłym miesiącu</string>
+    <string name="month_minus02">2 miesiące po</string>
+    <string name="month_minus03">3 miesiące po</string>
+    <string name="month_minus12">12 miesięcy po</string>
 </resources>

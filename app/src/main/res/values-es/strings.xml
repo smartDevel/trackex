@@ -81,4 +81,8 @@
     <string name="translation_description">If you\'re interested in helping with translating the app to your language, please contact me. I\'d love to support as many as possible!\n\n\Currently supported: 🇺🇸 🇦🇺 🇪🇸 🇵🇱</string>
     <string name="welcome_to_expenses">Bienvenido a la aplicación Gastos</string>
     <string name="yes">Si</string>
+    <string name="month_minus12">hace 12 meses</string>
+    <string name="month_minus03">hace 3 meses</string>
+    <string name="month_minus02">hace 2 meses</string>
+    <string name="last_month">El mes pasado</string>
 </resources>

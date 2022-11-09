@@ -10,6 +10,18 @@
         android:id="@+id/this_month"
         android:title="@string/this_month" />
     <item
+        android:id="@+id/last_month"
+        android:title="@string/last_month" />
+    <item
+        android:id="@+id/month_minus02"
+        android:title="@string/month_minus02" />
+    <item
+        android:id="@+id/month_minus03"
+        android:title="@string/month_minus03" />
+    <item
+        android:id="@+id/month_minus12"
+        android:title="@string/month_minus12" />
+    <item
         android:id="@+id/all_time"
         android:title="@string/all_time" />
 </menu>
