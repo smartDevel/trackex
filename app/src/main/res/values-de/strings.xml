@@ -81,4 +81,8 @@
     <string name="yes">Ja</string>
     <string name="channel_name_default" translatable="false">Default channel</string>
     <string name="channel_description_default" translatable="false">Channel for all types of notifications.</string>
+    <string name="last_month">Letzter Monat</string>
+    <string name="month_minus02">2 Monate zurück</string>
+    <string name="month_minus03">3 Monate zurück</string>
+    <string name="month_minus12">12 Monate zurück</string>
 </resources>

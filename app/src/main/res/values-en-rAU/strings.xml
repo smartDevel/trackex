@@ -81,4 +81,8 @@
     <string name="translation_description">If you\'re interested in helping with translating the app to your language, please contact me. I\'d love to support as many as possible!\n\n\Currently supported: 🇺🇸 🇦🇺 🇪🇸 🇵🇱</string>
     <string name="welcome_to_expenses">Welcome to Expenses</string>
     <string name="yes">Yes</string>
+    <string name="last_month">Last month</string>
+    <string name="month_minus02">2 month past</string>
+    <string name="month_minus03">3 month past</string>
+    <string name="month_minus12">12 month past</string>
 </resources>

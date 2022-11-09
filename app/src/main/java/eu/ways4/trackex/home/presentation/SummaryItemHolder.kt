@@ -55,7 +55,13 @@ class SummaryItemHolder(itemView: View) : HomeItemHolder(itemView) {
             R.id.today -> { model.onTodayClick(); true }
             R.id.this_week -> { model.onThisWeekClick(); true }
             R.id.this_month -> { model.onThisMonthClick(); true }
+            R.id.last_month -> { model.onLastMonthClick(); true }
+            R.id.month_minus02 -> { model.onMonthMinus02Click(); true }
+            R.id.month_minus03 -> { model.onMonthMinus03Click(); true }
+            R.id.month_minus12 -> { model.onMonthMinus12Click(); true }
             R.id.all_time -> { model.onAllTimeClick(); true }
+//            R.id.october -> {model.onOctoberClick(); true}
+//            R.id.november -> {model.onNovemberClick(); true}
             else -> false
         }
     }
