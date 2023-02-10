@@ -85,4 +85,15 @@
     <string name="month_minus02">2 Monate zurück</string>
     <string name="month_minus03">3 Monate zurück</string>
     <string name="month_minus12">12 Monate zurück</string>
+    <string name="january">Januar</string>
+    <string name="february">Februar</string>
+    <string name="september">September</string>
+    <string name="december">Dezember</string>
+    <string name="month_october">Oktober</string>
+    <string name="month_november">November</string>
+    <string name="month_march">März</string>
+    <string name="month_december">Dezember</string>
+    <string name="month_january">Januar</string>
+    <string name="month_february">Februar</string>
+    <string name="month_september">September</string>
 </resources>

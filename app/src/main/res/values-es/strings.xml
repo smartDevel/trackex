@@ -85,4 +85,15 @@
     <string name="month_minus03">hace 3 meses</string>
     <string name="month_minus02">hace 2 meses</string>
     <string name="last_month">El mes pasado</string>
+    <string name="january">Enero</string>
+    <string name="february">Febrero</string>
+    <string name="september">Septiembre</string>
+    <string name="december">Diciembre</string>
+    <string name="month_december">Diciembre</string>
+    <string name="month_january">Enero</string>
+    <string name="month_february">Febrero</string>
+    <string name="month_september">Septiembre</string>
+    <string name="month_october">Octubre</string>
+    <string name="month_november">Noviembre</string>
+    <string name="month_march">Marzo</string>
 </resources>

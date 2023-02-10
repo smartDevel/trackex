@@ -85,4 +85,15 @@
     <string name="month_minus02">2 miesiące po</string>
     <string name="month_minus03">3 miesiące po</string>
     <string name="month_minus12">12 miesięcy po</string>
+    <string name="january">Styczeń</string>
+    <string name="february">Luty</string>
+    <string name="september">Wrzesień</string>
+    <string name="december">Grudzień</string>
+    <string name="month_december">Grudzień</string>
+    <string name="month_january">Styczeń</string>
+    <string name="month_february">Luty</string>
+    <string name="month_september">Wrzesień</string>
+    <string name="month_october">Październik</string>
+    <string name="month_november">Listopad</string>
+    <string name="month_march">Marsz</string>
 </resources>
