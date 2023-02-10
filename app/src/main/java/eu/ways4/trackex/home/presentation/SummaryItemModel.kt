@@ -36,8 +36,13 @@ class SummaryItemModel(
             MONTH_MINUS03 -> context.getString(R.string.month_minus03)
             MONTH_MINUS12 -> context.getString(R.string.month_minus12)
             ALL_TIME -> context.getString(R.string.all_time)
+            JANUARY -> context.getString(R.string.january)
+            FEBRUARY -> context.getString(R.string.february)
+            MARCH -> context.getString(R.string.month_march)
+            SEPTEMBER -> context.getString(R.string.september)
             OCTOBER -> context.getString(R.string.october)
             NOVEMBER -> context.getString(R.string.november)
+            DECEMBER -> context.getString(R.string.december)
         }
     }
 
@@ -55,9 +60,19 @@ class SummaryItemModel(
 
     fun onMonthMinus12Click() = dateRangeChange?.invoke(DateRange.MONTH_MINUS12)
 
+    fun onJanuaryClick() = dateRangeChange?.invoke(DateRange.JANUARY)
+
+    fun onFebruaryClick() = dateRangeChange?.invoke(DateRange.FEBRUARY)
+
+    fun onMarchClick() = dateRangeChange?.invoke(DateRange.MARCH)
+
+    fun onSeptemberClick() = dateRangeChange?.invoke(DateRange.SEPTEMBER)
+
     fun onOctoberClick() = dateRangeChange?.invoke(DateRange.OCTOBER)
 
     fun onNovemberClick() = dateRangeChange?.invoke(DateRange.NOVEMBER)
+
+    fun onDecemberClick() = dateRangeChange?.invoke(DateRange.DECEMBER)
 
     fun onAllTimeClick() = dateRangeChange?.invoke(DateRange.ALL_TIME)
 }

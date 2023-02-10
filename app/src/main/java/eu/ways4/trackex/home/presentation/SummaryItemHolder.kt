@@ -59,7 +59,15 @@ class SummaryItemHolder(itemView: View) : HomeItemHolder(itemView) {
             R.id.month_minus02 -> { model.onMonthMinus02Click(); true }
             R.id.month_minus03 -> { model.onMonthMinus03Click(); true }
             R.id.month_minus12 -> { model.onMonthMinus12Click(); true }
+            R.id.month_january -> { model.onJanuaryClick(); true }
+            R.id.month_february -> { model.onFebruaryClick(); true }
+            R.id.month_march -> { model.onMarchClick(); true }
+            R.id.month_september -> { model.onSeptemberClick(); true }
+            R.id.month_october -> { model.onOctoberClick(); true }
+            R.id.month_november -> { model.onNovemberClick(); true}
+            R.id.month_december -> { model.onDecemberClick(); true}
             R.id.all_time -> { model.onAllTimeClick(); true }
+
 //            R.id.october -> {model.onOctoberClick(); true}
 //            R.id.november -> {model.onNovemberClick(); true}
             else -> false

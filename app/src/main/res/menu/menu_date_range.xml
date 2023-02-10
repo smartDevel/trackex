@@ -4,6 +4,9 @@
         android:id="@+id/today"
         android:title="@string/today" />
     <item
+        android:id="@+id/all_time"
+        android:title="@string/all_time" />
+    <item
         android:id="@+id/this_week"
         android:title="@string/this_week" />
     <item
@@ -22,6 +25,24 @@
         android:id="@+id/month_minus12"
         android:title="@string/month_minus12" />
     <item
-        android:id="@+id/all_time"
-        android:title="@string/all_time" />
+        android:id="@+id/month_january"
+        android:title="@string/month_january" />
+    <item
+        android:id="@+id/month_february"
+        android:title="@string/month_february" />
+    <item
+        android:id="@+id/month_march"
+        android:title="@string/month_march" />
+    <item
+        android:id="@+id/month_september"
+        android:title="@string/month_september" />
+    <item
+        android:id="@+id/month_october"
+        android:title="@string/month_october" />
+    <item
+        android:id="@+id/month_november"
+        android:title="@string/month_november" />
+    <item
+        android:id="@+id/month_december"
+        android:title="@string/month_december" />
 </menu>

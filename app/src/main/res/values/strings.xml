@@ -98,4 +98,15 @@
     <string name="month_minus02">2 month past</string>
     <string name="month_minus03">3 month past</string>
     <string name="month_minus12">12 month past</string>
+    <string name="january">January</string>
+    <string name="february">February</string>
+    <string name="september">September</string>
+    <string name="december">December</string>
+    <string name="month_december">December</string>
+    <string name="month_january">January</string>
+    <string name="month_february">February</string>
+    <string name="month_september">September</string>
+    <string name="month_october">October</string>
+    <string name="month_november">November</string>
+    <string name="month_march">March</string>
 </resources>
